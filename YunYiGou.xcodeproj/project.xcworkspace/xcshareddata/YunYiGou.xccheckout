@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EFF5D483-4D30-4768-8966-B66F5BF949E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YunYiGou</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08d72e0b-2470-41f1-9b27-3c9f5c9a67cc</key>
+		<string>svn://115.28.66.32/projects</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj_yunyigou/ios/YunYiGou/YunYiGou.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08d72e0b-2470-41f1-9b27-3c9f5c9a67cc</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08d72e0b-2470-41f1-9b27-3c9f5c9a67cc</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08d72e0b-2470-41f1-9b27-3c9f5c9a67cc</string>
+			<key>IDESourceControlWCCName</key>
+			<string>projects_liver</string>
+		</dict>
+	</array>
+</dict>
+</plist>
